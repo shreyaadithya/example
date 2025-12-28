@@ -1,0 +1,5 @@
+this is a sample to check the content replacement 
+and merge output 
+123456789
+122345466677
+2345678990

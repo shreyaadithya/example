@@ -1,0 +1,8 @@
+{
+  "name": "Shreya",
+  "role": "DevOps",
+  "experience": 4,
+  "skills": ["Linux", "Git", "AWS"],
+  "project": "DevOps",
+  "tools": ["Docker", "K8s"]
+}

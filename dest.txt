@@ -1,0 +1,9 @@
+this is a sample to check the content replacement 
+and merge output 
+123456789
+122345466677
+2345678990
+this file is being cretaed to check the contents of the file 
+and merging of the file
+play with file operations
+need to learn file operations in python
